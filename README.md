@@ -1,0 +1,1 @@
+# api-gateway-as-both-resourceserver-and-oauth-client-redis-session
